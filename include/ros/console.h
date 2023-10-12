@@ -33,7 +33,7 @@
 #define ROSCONSOLE_ROSCONSOLE_H
 
 #include "console_backend.h"
-
+#include <boost/shared_ptr.hpp>
 #include <cstdio>
 #include <sstream>
 #include <ros/time.h>
